@@ -1,0 +1,58 @@
+
+
+body{
+   
+}
+#features{
+    margin-top: 4rem;
+}
+
+#id1{
+    font-weight: 200;
+    font-family: sans-serif;
+    font-style: normal;
+}
+
+#id2{
+    font-family: 'Poppins', sans-serif;
+}
+
+#id3{
+    margin-top: 4rem;
+}
+
+#id4{
+    max-width: 18rem;
+}
+
+#id5{
+    font-size: 2rem;
+}
+
+#id6{
+    max-width: 18rem;
+}
+
+#id7{
+    font-size: 2rem;
+}
+
+#id8{
+    max-width: 18rem;
+}
+
+#id9{
+    font-size: 2rem;
+}
+
+#id10{
+    max-width: 18rem;
+}
+
+#id11{
+    font-size: 2rem;
+}
+
+img{
+    aspect-ratio: 3/2;
+}
